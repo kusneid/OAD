@@ -24,8 +24,6 @@ Lakehouse: Delta Lake, Apache Iceberg
 
 Parquet/ORC — почему именно они
 
-Зоны данных: Raw, Staging, Curated
-
 ACID в lakehouse, schema evolution
 
 ЛЕКЦИЯ 3. Источники данных и способы загрузки (Batch & Streaming Ingestion)
